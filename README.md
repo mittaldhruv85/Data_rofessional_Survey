@@ -10,3 +10,4 @@ Gender-Based Salary Insights: Comparison of average salaries by gender.
 Job Satisfaction Metrics:
 Work-life balance rating (on a scale of 0–10).
 Satisfaction with salary (on a scale of 0–10).
+![Capture](https://github.com/user-attachments/assets/e7020a04-363f-4c6c-8ca7-86af37512eed)
